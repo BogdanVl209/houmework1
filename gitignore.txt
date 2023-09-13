@@ -1,2 +1,0 @@
-homework/Debug
-homework/.vs
