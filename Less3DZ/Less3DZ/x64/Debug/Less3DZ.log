@@ -1,0 +1,3 @@
+﻿  Less3DZ.cpp
+C:\houmework1\Less3DZ\Less3DZ\Less3DZ.cpp(39,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Less3DZ.vcxproj -> C:\houmework1\Less3DZ\x64\Debug\Less3DZ.exe
