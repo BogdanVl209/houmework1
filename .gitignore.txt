@@ -1,2 +1,4 @@
-houmework1/Debug
+houmework1/x64/Debug
 houmework1/.vs
+.vs
+.vs/houmework1
