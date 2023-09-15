@@ -1,0 +1,2 @@
+houmework1/Debug
+houmework1/.vs
