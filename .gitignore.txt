@@ -1,5 +1,0 @@
-houmework1\houmework1\x64\Debug
-houmework1\.vs
-houmework1\x64\Debug
-x64\Debug
-.vs
