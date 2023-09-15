@@ -1,0 +1,3 @@
+﻿  houmework1.cpp
+C:\houmework1\houmework1\houmework1.cpp(2,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  houmework1.vcxproj -> C:\houmework1\houmework1\x64\Debug\houmework1.exe
